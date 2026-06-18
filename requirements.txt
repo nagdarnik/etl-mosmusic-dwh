@@ -1,0 +1,6 @@
+pandas
+openpyxl
+psycopg2-binary
+sqlalchemy==2.0.36
+lxml
+python-dotenv
